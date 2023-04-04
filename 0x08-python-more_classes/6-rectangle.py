@@ -89,4 +89,4 @@ class Rectangle:
         """Returns the calculated perimeter of Rectangle instance"""
         if self.height == 0 or self.width == 0:
             return 0
-        return (self.width + self.height) * 
+        return (self.width + self.height) * 2

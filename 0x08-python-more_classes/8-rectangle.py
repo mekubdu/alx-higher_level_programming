@@ -1,4 +1,3 @@
-lines (95 sloc)  3.29 KB
 #!/usr/bin/python3
 """
 Module creates the Rectangle class
