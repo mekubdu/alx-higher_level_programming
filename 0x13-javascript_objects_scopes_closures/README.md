@@ -1,7 +1,7 @@
 Javascript_objects_scopes_closures
 =====
-= How to create an object in JavaScript
-. What this mean
+- How to create an object in JavaScript
+- What this mean
 . What undefined means
 . Why the variable type and scope is important
 . What is a closure
